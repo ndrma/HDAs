@@ -6,3 +6,10 @@ Now that March and the challenge are done I made a shelf tool with them so that 
 Feel free to use, the shelf tool can be copied directly at ~/houdiniVERSION/toolbar (if you do that make sure to change the version to correspond to your installation)
 
 Preferrably, you can add the tool at your shelf, name it whatever you'd like, then copy the script to each as you prefer.
+
+
+LOP network
+![lopnet](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+SOP network
+![sopnet](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
