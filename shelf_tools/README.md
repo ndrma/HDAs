@@ -13,3 +13,7 @@ LOP network
 
 SOP network
 ![sopnet](https://github.com/ndrma/HDAs/blob/main/shelf_tools/screenshot_sopnet.png?raw=true)
+
+an intro video to the process of building shelf tools can be found here:
+
+https://www.youtube.com/watch?v=0qkEjx9pU3Q
