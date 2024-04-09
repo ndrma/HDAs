@@ -9,7 +9,7 @@ Preferrably, you can add the tool at your shelf, name it whatever you'd like, th
 
 
 LOP network
-![lopnet](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![lopnet](https://github.com/ndrma/HDAs/blob/main/shelf_tools/screenshot_lopnet.png?raw=true)
 
 SOP network
-![sopnet](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![sopnet](https://github.com/ndrma/HDAs/blob/main/shelf_tools/screenshot_sopnet.png?raw=true)
